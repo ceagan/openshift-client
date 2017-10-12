@@ -22,7 +22,7 @@ $ oc version
 
 ## Alternatively, you can use the Docker Hub automated build
 
-[![](https://images.microbadger.com/badges/image/ebits/openshift-client.svg)](https://microbadger.com/images/ebits/openshift-client "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/ebits/openshift-client.svg)](https://microbadger.com/images/ebits/openshift-client "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/ceagan/openshift-client.svg)](https://microbadger.com/images/ceagan/openshift-client "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/ceagan/openshift-client.svg)](https://microbadger.com/images/ceagan/openshift-client "Get your own version badge on microbadger.com")
 
 ```bash
 $ docker pull ebits/openshift-client
